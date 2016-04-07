@@ -1,2 +1,4 @@
 # ProgettoBD2
-Homework per l'esame di Basi di Dati 2.
+Cetorelli Valerio
+Fogli Alessandro
+La Viola Carlo
